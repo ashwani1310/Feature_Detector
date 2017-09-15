@@ -1,1 +1,1 @@
-# Feature_Detector
+Automate the task of inserting the data received in the form of a pdf table to a database based on the different template type of the tables with the help of Image Processing, NLP and Machine Learning.
